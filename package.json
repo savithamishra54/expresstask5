@@ -1,0 +1,19 @@
+{
+  "name": "expresstask5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "loginpage.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon loginpage.js",
+    "start-server": "loginpage.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
